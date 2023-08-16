@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Book</string>
+    <string name="new_user_sign_up">New User? <b>Sign Up</b></string>
+    <string name="text1">Có dịch vụ bọc sách plasic cao cấp cho sách này</string>
+    <string name="text2">Miễn phí giao hàng toàn quốc cho đơn hàng từ 250.000đ</string>
+    <string name="mota">Một huấn luyện viên dạy bơi cho trẻ em từng nói với tôi: “Ngài có biết làm thế nào để một đứa trẻ không biết bơi lại nhanh chóng học bơi được không? Rất đơn giản, chỉ cần  thả trẻ xuống nước, để trẻ giãy giụa, làm quen với cảm giác ở dưới nước”. Tôi hỏi cậu ấy, làm như thế có nguy hiểm quá không? Huấn luyện viên nói rằng không cần quá lo lắng, chỉ cần kịp thời giúp sức, cứ luyện tập từ từ, bất kể ai cũng đều có thể biết bơi. Bởi vì trong tình huống nguy hiểm, tiềm năng của con người mới được bộc lộ rõ, học tập hay làm việc đều vừa nhanh vừa hiệu quả.</string>
+
+</resources>
