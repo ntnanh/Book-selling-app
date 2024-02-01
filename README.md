@@ -32,23 +32,33 @@ The purpose of building the application is:
 ## Demo
 Home Page    
 ![Alt text](./Screenshots/Screenshot_1.png) 
+
 Menu Category    
 ![Alt text](./Screenshots/Screenshot_2.png)
+
 Best-selling book page    
 ![Alt text](./Screenshots/Screenshot_3.png)
+
 Product Details Page   
 ![Alt text](./Screenshots/Screenshot_4.png)
+
 ![Alt text](./Screenshots/Screenshot_5.png)
+
 Shopping Cart Page   
 ![Alt text](./Screenshots/Screenshot_6.png)
+
 Order Page    
 ![Alt text](./Screenshots/Screenshot_22.png)
+
 Registration Page    
 ![Alt text](./Screenshots/Screenshot_23.png)
+
 Login Page     
 ![Alt text](./Screenshots/Screenshot_24.png)
+
 Admin Home Page
 ![Alt text](./Screenshots/Screenshot_7.png)
+
 Category Management Page
 ![Alt text](./Screenshots/Screenshot_8.png)
 ![Alt text](./Screenshots/Screenshot_9.png)
